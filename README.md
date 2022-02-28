@@ -6,8 +6,8 @@ The purpose of this seminar thesis is to derive determinants for long-term unemp
 in Germany and use them as predictors to classify unemployed individuals into
 classes of high and low risk of getting long-term unemployed. The model can be applied in
 the context of targeting for governmental unemployment assistance. Previous models rely on
-logistic regression approaches, whereas this thesis uses a kernel support vector machine and
-shows that modern techniques like this can outperform traditional ones.
+logistic regression, whereas this thesis uses a kernel support vector machine and
+shows that modern techniques like this can outperform traditional approaches.
 
 # Seminar Thesis
 The Master Seminar on Econometrics is a semi-elective part of the M.Sc. Data Science in Business & Economics
