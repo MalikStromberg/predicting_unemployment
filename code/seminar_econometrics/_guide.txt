@@ -1,0 +1,16 @@
+_main.R					This script reproduces all figures and created data sets
+data_cleaning.R				This script loads SOEP data and prepares it for analyses
+lr.R						This script performs the logistic regression
+svm.R						This script performs the svm
+visualization.R				This script creates all plots
+seminar_econometrics.Rproj		project file
+
+data						This is an input folder that contains all data
+	fitted_models			This folder contains all fitted models
+	loaded_data				This folder contains all data that have been loaded from SOEP raw data and from paneldata.org
+	raw_data				This folder contains all SOEP raw data
+	temp_data				This folder contains all data that is stored temporary (I did not implement an automated deletion, so you can see what have been in there)
+	tidy_data				This folder contains the tidy data used in the analyses
+figures					This is an output folder that contains all plots
+functions					This folder contains all functions needed for the scripts on top level
+support_scripts				This folder contains all additional scripts that are needed to run the scripts on top level
